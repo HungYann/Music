@@ -19,4 +19,4 @@ Search the music by **singer name**:
 ![](https://tva1.sinaimg.cn/large/008eGmZEgy1gmqsx8l74uj31jm0u0u10.jpg)
 
 
-**Problem: **the reaction time maybe is slightly longer than u expected, how I am sure the app works!
+**Problem:** the reaction time maybe is slightly longer than u expected, how I am sure the app works!
